@@ -1,5 +1,5 @@
 variables:
-    registryEndpoint: erydrneshoponcontainers.azurecr.io
+    registryEndpoint: https://hub.docker.com/u/eshop
 trigger:
   branches:
     include:
